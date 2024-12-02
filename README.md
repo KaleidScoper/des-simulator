@@ -5,3 +5,8 @@
 - 选择两个用户，点击建立连接
 - 选择一个txt文件（比如demo.txt）模拟通讯
 - 请注意txt文件内不可以换行
+- 加解密依赖pycryptodome
+
+```bash
+pip install pycryptodome
+```
