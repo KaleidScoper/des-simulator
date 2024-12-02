@@ -43,7 +43,7 @@ class KeyDistributionApp:
         self.init_users()
 
         self.root = root
-        self.root.title("实验五 基于DES的集中式密钥分配协议 E42214088 张瀛中")
+        self.root.title("实验五 基于DES的集中式密钥分配协议")
 
         Label(root, text="用户列表").grid(row=0, column=0, padx=10, pady=10)
 
